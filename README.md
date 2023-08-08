@@ -15,8 +15,8 @@ These models work together to create a loop: a text prompt generates an image, o
 
 ### Example of a game:
 
-![1st Prompt: "A cat sitting on a chair"](images/Cat_0.JPG)
-![2nd Prompt: "cat chair."](images/Cat_1.JPG)
-![3rd Prompt: "chair cat has to be adopted by a new owner - a big responsibility to take on for a new arrival to a new home. There is also the"](images/Cat_2.JPG)
-![4th Prompt: "cat' --data="username=adm;password=secret;host=localuser;port=22" --output="brief.j"](images/Cat_3.JPG)
-![5th Prompt: "cat. There's definitely something going on, but I cannot see anything. There's nothing that looks like a human being"](images/Cat_4.JPG)
+![1st Prompt: "A cat sitting on a chair"](Images/Cat_0.JPG)
+![2nd Prompt: "cat chair."](Images/Cat_1.JPG)
+![3rd Prompt: "chair cat has to be adopted by a new owner - a big responsibility to take on for a new arrival to a new home. There is also the"](Images/Cat_2.JPG)
+![4th Prompt: "cat' --data="username=adm;password=secret;host=localuser;port=22" --output="brief.j"](Images/Cat_3.JPG)
+![5th Prompt: "cat. There's definitely something going on, but I cannot see anything. There's nothing that looks like a human being"](Images/Cat_4.JPG)
