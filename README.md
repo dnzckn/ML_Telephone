@@ -1,4 +1,4 @@
-# Machine Learning Telephone (Game)
+# Machine Learning Telephone Game (Text to image, image to text)
 
 This project employs a variety of AI models, each with a distinct role in order to recreate the children's game of telephone:
 
