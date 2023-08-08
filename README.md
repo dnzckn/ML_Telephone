@@ -1,5 +1,4 @@
 # Machine Learning Telephone (Game)
-AI Telephone Game Models
 This project employs a variety of AI models, each with a distinct role:
 
 GPT-2 Model for Text Generation: The GPT-2 model generates a continuation of a given text prompt. This text serves as the description that guides the image generation process. The model is a part of the Hugging Face's transformers library and is initialized with the pipeline('text-generation', model='gpt2-xl') command.
